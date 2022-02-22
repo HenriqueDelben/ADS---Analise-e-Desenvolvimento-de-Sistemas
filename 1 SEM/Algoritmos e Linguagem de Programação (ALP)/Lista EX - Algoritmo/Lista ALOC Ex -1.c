@@ -2,7 +2,7 @@
 OBJETIVO:
 ENTRADA:
 SAIDA:
-/*
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
