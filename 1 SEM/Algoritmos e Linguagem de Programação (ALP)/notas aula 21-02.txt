@@ -1,0 +1,5 @@
+cometarios simbolos
+bibliotecas c: stdio.h, stdlib.h e math.h
+system(pause) - para parar o programa
+return (0) para finalizar o programa
+
