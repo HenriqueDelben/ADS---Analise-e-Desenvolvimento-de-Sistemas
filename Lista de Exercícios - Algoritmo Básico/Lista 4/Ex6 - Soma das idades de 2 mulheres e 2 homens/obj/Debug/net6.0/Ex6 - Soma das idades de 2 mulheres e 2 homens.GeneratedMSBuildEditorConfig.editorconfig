@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ex6___Soma_das_idades_de_2_mulheres_e_2_homens
+build_property.ProjectDir = C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\
